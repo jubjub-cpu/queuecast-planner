@@ -4,7 +4,7 @@
 
 Validated on July 17, 2026 before v1.0.0 publication.
 
-- Repository validator: passed. Checked required files, three synthetic queues, AI-assisted and human-decision disclosures, privacy patterns, accessibility hooks, and forecasting logic.
+- Repository validator: passed. Checked required files, three synthetic queues, human-decision boundaries, privacy patterns, accessibility hooks, and forecasting logic.
 - Logic suite: passed. Covered least-squares trend, residual uncertainty, eight-week forecast, five-assumption capacity simulation, risk, required agents, staffing brief, scoring, invalid inputs, and export boundaries.
 - Desktop browser: passed at 1440 x 1000. Produced a stress scenario, verified nonblank Canvas pixels, eight weekly rows, high-risk labels, staffing action, human adoption, and local JSON download.
 - Mobile browser: passed at 390 x 844 with no document overflow; the weekly table remains horizontally scrollable within its own region.

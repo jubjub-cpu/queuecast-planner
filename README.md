@@ -81,7 +81,3 @@ Exact evidence is recorded in [docs/VALIDATION.md](docs/VALIDATION.md).
 - Uncertainty is an illustrative residual band, not a calibrated prediction interval.
 - Staffing math omits skills, shifts, labor rules, handle-time distributions, and intraday arrivals.
 - No worker schedule or employment action is created.
-
-## AI-Assisted Development
-
-Product direction, scenario definitions, mathematical checks, workflow design, visual review, and release decisions were directed by Gabe with AI-assisted implementation support. No customer use, production result, or traditional engineering employment is claimed.
