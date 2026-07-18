@@ -1,4 +1,12 @@
-# QueueCast Planner v1.0.0
+# Release Notes
+
+## v1.0.1 - Accessibility hardening
+
+- Increased contrast for secondary operational text across the rail, queue controls, and privacy note.
+- Made the horizontally scrollable weekly coverage table keyboard focusable and labeled.
+- Preserved forecast logic, scenario controls, decision gates, and browser workflow coverage.
+
+## v1.0.0 - Initial release
 
 QueueCast Planner v1.0.0 delivers explainable forecasting and capacity simulation for fictional service operations.
 

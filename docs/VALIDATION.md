@@ -28,3 +28,11 @@ Verified on July 17, 2026 at `https://jubjub-cpu.github.io/queuecast-planner/`.
 - Public page and synthetic queue fixture: HTTP 200.
 - Published page title: `QueueCast Planner | Capacity Scenarios`.
 - Published commit identity: author and committer use the GitHub no-reply address.
+
+## v1.0.1 hardening
+
+Validated locally on July 18, 2026.
+
+- Increased muted-text contrast and added keyboard focus plus an accessible label to the weekly coverage table.
+- Repository validator, forecast tests, and local browser workflow passed.
+- Local axe-core audit passed at desktop and mobile viewports with zero violations; the same audit is required against the deployed patch before release publication.

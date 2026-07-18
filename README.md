@@ -2,7 +2,7 @@
 
 QueueCast Planner is an explainable forecasting and capacity-simulation workspace for service operations. It turns synthetic weekly history into an eight-week demand range, lets planners test staffing assumptions, and keeps adoption with a human workforce lead.
 
-[Live demo](https://jubjub-cpu.github.io/queuecast-planner/) | [Portfolio](https://jubjub-cpu.github.io/gabe-ai-product-portfolio/) | [v1.0.0 release](https://github.com/jubjub-cpu/queuecast-planner/releases/tag/v1.0.0)
+[Live demo](https://jubjub-cpu.github.io/queuecast-planner/) | [Portfolio](https://jubjub-cpu.github.io/gabe-ai-product-portfolio/) | [v1.0.1 release](https://github.com/jubjub-cpu/queuecast-planner/releases/tag/v1.0.1)
 
 ## Business Problem
 
