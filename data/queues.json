@@ -1,0 +1,8 @@
+{
+  "notice": "All queue volumes, staffing assumptions, and operating labels are fictional and synthetic.",
+  "queues": [
+    {"id":"repair-dispatch","name":"Repair dispatch intake","industry":"Field service","unit":"cases","history":[438,452,447,471,486,478,505,512,528,521,548,561],"defaults":{"demandChangePct":0,"agents":15,"productivity":41,"absencePct":8,"bufferPct":10}},
+    {"id":"member-support","name":"Member support queue","industry":"Subscription services","unit":"contacts","history":[710,695,728,742,730,756,778,804,792,825,846,838],"defaults":{"demandChangePct":0,"agents":23,"productivity":39,"absencePct":9,"bufferPct":8}},
+    {"id":"claims-intake","name":"Claims intake review","industry":"Insurance operations","unit":"claims","history":[302,315,294,328,341,336,352,365,371,389,382,404],"defaults":{"demandChangePct":0,"agents":13,"productivity":34,"absencePct":7,"bufferPct":12}}
+  ]
+}
