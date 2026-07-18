@@ -20,4 +20,11 @@ Validated on July 17, 2026 before v1.0.0 publication.
 
 ## Deployment verification
 
-Pending GitHub Pages publication. The deployed URL, HTTP checks, repeat browser result, and published commit identity will be added before v1.0.0 is tagged.
+Verified on July 17, 2026 at `https://jubjub-cpu.github.io/queuecast-planner/`.
+
+- GitHub Pages build: passed.
+- Deployed browser suite: passed with the same forecast Canvas, uncertainty, five-control scenario, weekly risk, human decision, export, keyboard, and recovery checks as local.
+- Deployed browser health: zero console errors and zero failed normal requests.
+- Public page and synthetic queue fixture: HTTP 200.
+- Published page title: `QueueCast Planner | Capacity Scenarios`.
+- Published commit identity: author and committer use the GitHub no-reply address.
